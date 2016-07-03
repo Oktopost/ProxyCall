@@ -1,0 +1,15 @@
+# IDE Folders
+/.buildpath
+/.project
+/.settings
+/.idea
+
+# OS Folders
+.DS_Store
+
+# Composer
+/vendor/
+
+# Test file
+test.php
+/*Test.php
